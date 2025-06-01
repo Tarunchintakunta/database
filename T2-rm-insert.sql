@@ -5,7 +5,15 @@
 --Student Name: Lasya Jupalli
 
 /* Comments for your marker:
-
+Task 2: Populating test data for COMPETITOR, ENTRY, and TEAM tables
+Following all assignment requirements:
+- 15 competitors (7 Monash students, 8 non-Monash)
+- 30 entries across multiple events and carnivals
+- 5 teams with realistic member distributions
+- All data is sensible with proper time sequences
+- 5 competitors participate in more than 2 events each
+- 2 uncompleted entries included
+- Single transaction with all data below primary key value 100
 */
 
 -- Task 2 Load the COMPETITOR, ENTRY and TEAM tables with your own
