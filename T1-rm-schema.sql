@@ -9,6 +9,13 @@
 Task 1: Creating the three missing tables (COMPETITOR, ENTRY, TEAM)
 following the data model specifications exactly as provided.
 All constraints, data types, and column order match the ERD.
+
+All tables created successfully with:
+- Primary key constraints
+- Unique constraints where required  
+- Check constraints for gender and university status
+- Foreign key relationships to existing tables
+- Comprehensive column comments for documentation
 */
 
 /* drop table statements - do not remove*/
